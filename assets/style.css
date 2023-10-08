@@ -142,15 +142,17 @@ background-blend-mode: soft-light;
 .img1 {
 background-image: url("../assets/images/beach1.jpeg");
 background-size: 100%;
+background-position: center;
 }
 
 .img2 {
-background-image: url("../assets/images/Tech1.jpg");
+background-image: url("../assets/images/GreenPage2.png");
 background-size: 100%;
+background-position: center;
 }
 
 .img3 {
-background-image: url("../assets/images/Tech3.jpg");
+background-image: url("../assets/images/Poke-Trainer.png");
 background-size: 100%;
 }
 
